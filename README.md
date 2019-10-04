@@ -11,3 +11,4 @@ Provides the weather forecast details.
     ex: $ python weather.py bangalore today
         $ python weather.py bangalore hourbyhour
         $ python weather.py bangalore monthly
+    
